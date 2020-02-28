@@ -1,0 +1,31 @@
+{
+  "name": "jupyterlab-openscad-syntax-highlighting",
+  "version": "0.1.0",
+  "description": "Syntax Highlighting for the OpenSCAD language",
+  "keywords": [
+    "jupyter",
+    "jupyterlab",
+    "jupyterlab-extension"
+  ],
+  "homepage": "https://github.com/pschatzmann/jupyterlab-openscad-syntax-highlighting",
+  "bugs": {
+    "url": "https://github.com/pschatzmann/jupyterlab-openscad-syntax-highlighting/issues"
+  },
+  "license": "BSD-3-Clause",
+  "author": "Phil Schatzmann",
+  "files": [
+    "lib/**/*.{d.ts,eot,gif,html,jpg,js,js.map,json,png,svg,woff2,ttf}",
+    "style/**/*.{css,eot,gif,html,jpg,json,png,svg,woff2,ttf}"
+  ],
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pschatzmann/jupyterlab-openscad-syntax-highlighting.git"
+  },
+  "jupyterlab": {
+    "extension": true
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
