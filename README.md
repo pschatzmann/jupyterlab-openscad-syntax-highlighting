@@ -19,8 +19,9 @@ jupyter labextension install jupyterlab-openscad-syntax-highlighting
 
 ```bash
 # Clone the repo to your local environment
+git clone https://github.com/pschatzmann/jupyterlab-openscad-syntax-highlighting.git
 # Move to jupyterlab-openscad-syntax-highliting directory
-# Install dependencies
+cd jupyterlab-openscad-syntax-highlighting
 # Link your development version of the extension with JupyterLab
 npm install
 jupyter labextension link .
