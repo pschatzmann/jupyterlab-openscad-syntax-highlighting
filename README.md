@@ -1,6 +1,6 @@
 # jupyterlab-openscad-syntax-highliting
 
-Syntax Highlighting for the OpenSCAD language
+Syntax Highlighting for the OpenSCAD language in Jupyterlab
 
 
 ## Requirements
